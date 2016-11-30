@@ -1,5 +1,5 @@
 import unittest
-from prime_function import isPrime
+from prime_function import prime_num
 
 class PrimeTests(unittest.TestCase):
 	
